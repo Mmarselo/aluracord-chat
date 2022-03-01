@@ -1,6 +1,8 @@
 # aluracord-chat
 Projeto criado na Imersão React com a @alura @omariosouto @peas
 
+link: https://aluracord-chat-git-main-mmarselo.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
